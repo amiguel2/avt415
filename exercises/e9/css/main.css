@@ -80,26 +80,25 @@ body {
 }
 
 .b-right-eye-alt {
-	width: 30px;
-	height: 30px;
-	background-color: red;
- border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 100px solid red;
+	    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid red;
     position: absolute;
-	top: 80px;
-	left: 50px;
+    top: 90px;
+    left: 40px;
 }
 .b-left-eye-alt {
-	width: 30px;
-	height: 30px;
-	background-color: red;
- 	border-left: 50px solid transparent;
- 	border-right: 50px solid transparent;
-    border-bottom: 100px solid red;
-  	position: absolute;
-	top: 80px;
-	left: 130px;
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid red;
+    position: absolute;
+    top: 90px;
+    left: 114px;
+}
 }
 .b-mouth-alt {
 	width: 100px;
@@ -107,8 +106,8 @@ body {
 	background-color: red;
 	border-radius: 100%;
 	position: absolute;
-	top: 150px;
-	left: 50px;
+	top: 185px;
+	left: 86px;
 }
 .b-left-wing-alt {
 	   width: 0;
@@ -118,7 +117,7 @@ body {
       border-top: 100px solid black;
       position: absolute;
       top:75px;
-      left: 100px;
+      left: 178px;
 
 }
 .b-right-wing-alt{
@@ -129,5 +128,5 @@ body {
       border-top: 100px solid black;
       position: absolute;
       top:75px;
-      left: 50px;
+      left: -84px;
   }
