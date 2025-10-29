@@ -101,10 +101,11 @@ body {
 }
 }
 .b-mouth-alt {
-	width: 100px;
-	height: 50px;
-	background-color: yellow;
-	border-radius: 100%;
+   width: 0;
+    height: 0;
+   border-left: 25px solid transparent;
+   border-right: 25px solid transparent;
+   border-top: 50px solid red;
 	position: absolute;
 	top: 185px;
 	left: 86px;
@@ -120,7 +121,29 @@ body {
       left: 178px;
 
 }
+.b-left-wing-2-alt {
+	   width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+      position: absolute;
+      top:75px;
+      left: 178px;
+
+}
+
 .b-right-wing-alt{
+       width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+      position: absolute;
+      top:75px;
+      left: -84px;
+  }
+  .b-right-wing-2-alt{
        width: 0;
       height: 0;
       border-left: 50px solid transparent;
