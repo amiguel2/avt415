@@ -5,4 +5,9 @@ body {
 	width: 200px;
 	height: 400px;
 	background-color:ghostwhite;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius:20px;
+
 }
