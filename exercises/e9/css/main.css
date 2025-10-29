@@ -9,5 +9,27 @@ body {
 	border-top-right-radius: 100px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius:20px;
+	position: absolute;
+	top:50px;
+	left: 100px;
+}
+.g-right-eye {
+	width: 30px;
+	height:30px;
+	background-color:black;
+	border-radius:100%;
+	position: absolute;
+	top: 130px;
+	left:150px;
+
+}
+.g-left-eye {
+	width: 30px;
+	height:30px;
+	background-color:black;
+	border-radius:100%;
+	position: absolute;
+	top: 130px;
+	left:230px;
 
 }
