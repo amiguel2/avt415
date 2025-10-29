@@ -16,7 +16,7 @@ body {
 .g-right-eye {
 	width: 30px;
 	height:30px;
-	background-color:black;
+	background-color:red;
 	border-radius:100%;
 	position: absolute;
 	top: 130px;
@@ -26,7 +26,7 @@ body {
 .g-left-eye {
 	width: 30px;
 	height:30px;
-	background-color:black;
+	background-color:red;
 	border-radius:100%;
 	position: absolute;
 	top: 130px;
