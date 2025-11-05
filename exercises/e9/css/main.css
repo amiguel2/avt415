@@ -80,12 +80,12 @@ body {
 }
 
 .b-mouth-alt {
-	width: 100px;
+	width: 20px;
 	height: 50px;
 	background-color: red;
 	border-radius: 100%;
 	position: absolute;
-	top: 200px;
+	top: 60px;
 	left: 150px;
 }
 .b-right-eye-alt {
@@ -162,3 +162,23 @@ body {
       top:75px;
       left: -177px;
   }
+  .b-right-ear-alt{
+       width: 0;
+      height: 0;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-top: 50px solid black;
+      position: absolute;
+      top:-25px;
+      left: 114px;
+  }
+  .b-left-ear-alt {
+	      width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid black;
+    position: absolute;
+    top: -25px;
+    left: 37px;
+}
